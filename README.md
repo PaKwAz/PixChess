@@ -1,2 +1,2 @@
 # PixChess
-Chess website
+Chess website coding in Html/CSS/JavaScript/PHP
